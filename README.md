@@ -4,14 +4,6 @@ Biomedical Engineering student at Shenzhen University, building embedded systems
 
 **Embedded Systems · AI Tools · Workflow Automation**
 
-## Spotlight: PPT Image Share Builder
-
-[**PPT Image Share Builder**](https://github.com/uuoov/ppt-image-share-builder) turns source materials and a reference slide style into generated PPT page images, contact-sheet QA, a PPTX wrapper, and a timed presentation script.
-
-[![PPT Image Share Builder demo overview](https://raw.githubusercontent.com/uuoov/ppt-image-share-builder/main/assets/hero-contact-sheet.jpg)](https://github.com/uuoov/ppt-image-share-builder)
-
-[Explore the project](https://github.com/uuoov/ppt-image-share-builder) · [中文说明](https://github.com/uuoov/ppt-image-share-builder/blob/main/README.zh-CN.md) · [Example workflow](https://github.com/uuoov/ppt-image-share-builder/tree/main/examples/medical-device-flight-check)
-
 ## Featured projects
 
 | Project | What it does | Engineering focus |
