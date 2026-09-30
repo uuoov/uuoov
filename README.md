@@ -1,5 +1,7 @@
 # Hi, I'm Leo Leung
 
+![Leo Leung - Embedded Systems, AI Tools and Workflow Automation](./assets/profile-banner.png)
+
 Biomedical Engineering student at Shenzhen University, building embedded systems, AI-powered tools, and workflow automation.
 
 **Embedded Systems · AI Tools · Workflow Automation**
