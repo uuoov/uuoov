@@ -8,9 +8,9 @@ Biomedical Engineering student at Shenzhen University, building embedded systems
 
 | Project | What it does | Engineering focus |
 | --- | --- | --- |
-| [PPT Image Share Builder](https://github.com/uuoov/ppt-image-share-builder) | Builds source-backed presentation images, checks the page set, and packages it for delivery | Codex Skill, image generation, visual QA, PPTX and scripts |
 | [Resume Coach Platform](https://github.com/uuoov/resume-coach-platform) | Matches resumes to target job descriptions and suggests targeted improvements | React, TypeScript, Express, LLMs, PostgreSQL |
 | [Gesture-Controlled Music Player](https://github.com/uuoov/GestureControl-based-STM32-) | Connects MGC3130 gesture sensing to a Python music controller | STM32F10x, I2C, UART, OLED; STM32 port and integration based on Corebb / DFRobot references |
+| [PPT Image Share Builder](https://github.com/uuoov/ppt-image-share-builder) | Builds source-backed presentation images, checks the page set, and packages it for delivery | Codex Skill, image generation, visual QA, PPTX and scripts |
 | [Medical PPT Question Bank](https://github.com/uuoov/medical-ppt-question-bank-skill) | Generates and audits training questions with page-level evidence | Codex Skill, source-grounded answers, structured output |
 
 ## Workflow tools
@@ -25,7 +25,6 @@ Biomedical Engineering student at Shenzhen University, building embedded systems
 | Project | Scope |
 | --- | --- |
 | [Music Player in C](https://github.com/uuoov/Music-Recommand-System) | Early Windows C coursework: linked lists, file I/O, playlists and MCI playback |
-| [MIEE](https://github.com/uuoov/miee) | Embedded learning exercises, including 8051 / Keil classroom practice |
 
 ## Community references
 
